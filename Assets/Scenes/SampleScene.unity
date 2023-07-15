@@ -134,12 +134,12 @@ GameObject:
   - component: {fileID: 151534341}
   - component: {fileID: 151534342}
   m_Layer: 0
-  m_Name: Trail (1)
+  m_Name: SecondTrail
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &151534341
 Transform:
   m_ObjectHideFlags: 0
@@ -215,7 +215,7 @@ TrailRenderer:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
-        value: 0.39999995
+        value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 0
@@ -254,7 +254,7 @@ TrailRenderer:
       m_Mode: 0
       m_NumColorKeys: 2
       m_NumAlphaKeys: 2
-    numCornerVertices: 0
+    numCornerVertices: 2
     numCapVertices: 0
     alignment: 0
     textureMode: 0
@@ -769,7 +769,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1566245736}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.56, y: 0, z: -9.45}
+  m_LocalPosition: {x: 1.47, y: 0, z: -8.1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -829,7 +829,7 @@ TrailRenderer:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 1
+        value: 0.72950745
         inSlope: 0
         outSlope: 0
         tangentMode: 0

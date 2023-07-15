@@ -65,7 +65,7 @@ Material:
     - _ZWrite: 0
     - _ZWriteControl: 0
     m_Colors:
-    - _ColorA: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorA: {r: 1.5058824, g: 1.5058824, b: 1.5058824, a: 0.65882355}
     - _ColorB: {r: 2.5521517, g: 0.92696065, b: 2.4453337, a: 1}
     - _NoiseSpeed: {r: -2.39, g: 0, b: 0, a: 0}
     - _Speed: {r: -2.8, g: 0, b: 0, a: 0}
